@@ -1,7 +1,7 @@
 # Music-player-using-firebase
 i'm using react  native to make a project named music player musica using firebase
 the project use to introduce music player using fire base
-install nmp packages 
+install these npm packages 
 "dependencies": {
     "@react-native-community/masked-view": "^0.1.11",
     "@react-native-community/slider": "^4.4.2",
